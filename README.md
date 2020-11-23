@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying at ENIB: a graduate school of engineering at ENIB (more [here](https://www.enib.fr/en/))
+- 🔭 I’m currently studying at ENIB: a graduate school of engineering (more [here](https://www.enib.fr/en/))
 - 🌱 I’m currently learning Python and Javascript
 - 📫 How to reach me: slashformotion@protonmail.com
 
