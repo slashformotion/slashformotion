@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studying at ENIB: a graduate school of engineering (more [here](https://www.enib.fr/en/))
-- 🌱 I’m currently learning Pytho, Golang and Javascript
+- 🌱 I’m currently learning Python, Golang and Javascript
 - 📫 How to reach me: slashformotion@protonmail.com
 
 
