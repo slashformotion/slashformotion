@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a french undergraduate student at [ENIB](https://www.enib.fr/en/), a graduate school of engineering. I am studying computer science, electronics and mechatronics.
+I am a french engineering student at [ENIB](https://www.enib.fr/en/), a graduate school . I am studying computer science, electronics and mechatronics.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
