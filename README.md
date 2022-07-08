@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Théophile Roos</h1>
 <h3 align="center">aka Slashformotion</h3>
 
+- 🏫 I’m currently an intern at [DitRit](https://github.com/ditrit)
+
 - 🔭 I’m currently working on [Radioboat](https://github.com/slashformotion/radioboat)
 
 - 🌱 I’m currently learning **Golang**
