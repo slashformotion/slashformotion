@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Slashformotion</h1>
 
 
-- 🏫 I’m currently an intern at [DitRit](https://github.com/ditrit)
+- 🏫 I’m currently studying at the [University of Ljubljana](https://www.uni-lj.si/eng/)
 
 - 🔭 I’m currently working on [Radioboat](https://github.com/slashformotion/radioboat)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** and **Rust**.
 
 - 📫 How to reach me **slashformotion@protonmail.com**
 
