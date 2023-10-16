@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Slashformotion</h1>
 
 
-- 🏫 I’m currently studying at the [University of Ljubljana](https://www.uni-lj.si/eng/)
+- 🏫 I’m currently working at ORNESS.
 
 - 🔭 I’m currently working on [Radioboat](https://github.com/slashformotion/radioboat)
 
