@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Slashformotion</h1>
 
 
-- 🏫 I’m currently working at ORNESS.
+- 🏫 I’m currently working for a french startup in the financial sector.
 
-- 🔭 I’m currently working on [Radioboat](https://github.com/slashformotion/radioboat)
+- 🔭 I’m currently working on [Radioboat](https://github.com/slashformotion/radioboat) and [Glossarium](https://github.com/ENIB-Community/glossarium).
 
-- 🌱 I’m currently learning **Golang** and **Rust**.
+- 🌱 I’m currently learning **zig** and **Rust**.
 
 - 📫 How to reach me **slashformotion[at]protonmail[dot]com**
 
