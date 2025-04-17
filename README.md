@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Slashformotion</h1>
 
 
-- 🏫 I’m currently working for a french startup in the financial sector iBanFirst.
+- 🏫 I’m currently working for a french startup in the financial sector (iBanFirst).
 
 - 🔭 I’m currently working on [typst-http-api](https://github.com/slashformotion/typst-http-api) and [Glossarium](https://github.com/ENIB-Community/glossarium).
 
