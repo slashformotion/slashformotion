@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Slashformotion</h1>
 
 
-- 🏫 I’m currently working for a french startup in the financial sector.
+- 🏫 I’m currently working for a french startup in the financial sector iBanFirst.
 
-- 🔭 I’m currently working on [Radioboat](https://github.com/slashformotion/radioboat) and [Glossarium](https://github.com/ENIB-Community/glossarium).
-
-- 🌱 I’m currently learning **zig** and **Rust**.
+- 🔭 I’m currently working on [typst-http-api](https://github.com/slashformotion/typst-http-api) and [Glossarium](https://github.com/ENIB-Community/glossarium).
 
 - 📫 How to reach me **slashformotion[at]protonmail[dot]com**
 
